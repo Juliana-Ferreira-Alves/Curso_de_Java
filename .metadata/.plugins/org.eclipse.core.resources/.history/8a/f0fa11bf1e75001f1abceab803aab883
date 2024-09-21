@@ -1,0 +1,20 @@
+package array;
+
+import java.util.ArrayList;
+
+public class ArrayL {
+
+	public static void main(String[] args) {
+		ArrayList<String> contatos = new ArrayList<>();
+		contatos.add("Juliana Alves");
+		contatos.add("9999-9999");
+		contatos.add("teste@email.com");
+		contatos.add("Eduardo Alves");
+		contatos.add("9999-8888");
+		contatos.add("teste2@email.com");
+		System.out.println("Tamanho do array: " + contatos.size());
+		System.err.println(contatos);
+
+	}
+
+}

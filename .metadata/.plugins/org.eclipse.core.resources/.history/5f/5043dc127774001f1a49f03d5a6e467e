@@ -1,0 +1,19 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class Jogo_do_Dado {
+
+	public static void main(String[] args) {
+		char opcao = 'n';
+		Scanner teclado = new Scanner(System.in);
+		while (opcao == 's') {
+			System.out.println("Lançamento do DADO...................");
+			double dado = Math.random()*6;
+			System.out.println("Face: " + dado);
+			
+		}
+
+	}
+
+}

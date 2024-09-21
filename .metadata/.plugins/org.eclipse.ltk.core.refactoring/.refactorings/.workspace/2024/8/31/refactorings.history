@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;agenda/src/main/webapp/WEB-INF/lib/itext-pdfa-5.5.13.3.jar&apos;" deleteContents="false" description="Delete resource &apos;agenda/src/main/webapp/WEB-INF/lib/itext-pdfa-5.5.13.3.jar&apos;" element1="/agenda/src/main/webapp/WEB-INF/lib/itext-pdfa-5.5.13.3.jar" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1722541200381"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;confirmador.js&apos; to &apos;scripts&apos;" description="Move &apos;confirmador.js&apos; to &apos;scripts&apos;" destination="src/main/webapp/scripts" element1="src/main/webapp/confirmador.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1722465212437" updateReferences="true"/>
+</session>

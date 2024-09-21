@@ -1,0 +1,22 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class JoKenPo {
+
+	public static void main(String[] args) {
+		// Variáveis
+		int jogador, computador;
+		Scanner teclado = new Scanner(System.in);
+		System.out.println("__________JoKenPo____________");
+		System.out.println("");
+		System.out.println("1. Pedra");
+		System.out.println("2. Papel");
+		System.out.println("3. Tesoura");
+		System.out.print("Digite a opção desejada: ");
+		
+		teclado.close();
+
+	}
+
+}

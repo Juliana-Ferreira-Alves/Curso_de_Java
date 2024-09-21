@@ -1,0 +1,10 @@
+package array;
+
+public class Jogo_de_Carta {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
